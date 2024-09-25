@@ -4,13 +4,13 @@
 
 <div id="badges", align="center">
   <a href="https://vk.com/cocok_tvoego_kota">
-  <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
   </a>
   <a href="https://www.youtube.com/@soulless_mvp">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>&nbsp;
   </a>
   <a href="https://t.me/zxc_rootkit">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>&nbsp;
   </a>
 </div>
 
