@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@soulless_mvp">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>&nbsp;
   </a>
-  <a href="https://t.me/zxc_rootkit">
+  <a href="https://t.me/zxc_golang">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>&nbsp;
   </a>
 </div>
